@@ -16,5 +16,5 @@ int main() {
     return 0;
 }
 
-This is 
-Part B multi process and multi threading mam
+// This is 
+// Part B multi process and multi threading mam
